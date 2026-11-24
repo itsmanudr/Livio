@@ -1,0 +1,5 @@
+*.AppxBundle
+*.Appx
+*.msix
+data/
+node_modules/
